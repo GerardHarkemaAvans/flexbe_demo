@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<behavior name="demo_assignment">
+<behavior name="demo-extend">
 
-	<executable package_path="flexbe_behaviors.demo_assignment_sm" class="demo_assignmentSM" />
+	<executable package_path="flexbe_behaviors.demo_extend_sm" class="demoextendSM" />
 	<tagstring></tagstring>
 	<author>Gerard Harkema</author>
-	<date>31 maart 2021</date>
+	<date>22 februari 2020</date>
 	<description>
-		Flexbe machine
+		Demo van Flexbe machine
 	</description>
 
 
