@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<behavior name="demo_assignment">
+
+	<executable package_path="flexbe_behaviors.demo_assignment_sm" class="demo_assignmentSM" />
+	<tagstring></tagstring>
+	<author>Gerard Harkema</author>
+	<date>31 maart 2021</date>
+	<description>
+		Flexbe machine
+	</description>
+
+
+	<!-- Contained Behaviors -->
+
+	<!-- Available Parameters -->
+
+</behavior>

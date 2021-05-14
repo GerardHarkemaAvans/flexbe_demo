@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<behavior name="Uitwerking">
+
+	<executable package_path="flexbe_behaviors.uitwerking_sm" class="UitwerkingSM" />
+	<tagstring></tagstring>
+	<author>Gerard Harkema</author>
+	<date>22 februari 2020</date>
+	<description>
+		Uitwerking van Flexbe machine
+	</description>
+
+
+	<!-- Contained Behaviors -->
+
+	<!-- Available Parameters -->
+
+</behavior>
